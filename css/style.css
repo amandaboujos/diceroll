@@ -1,0 +1,16 @@
+.msg {
+    text-align: center;
+    font: 3em helvetica, arial, sans-serif;
+}
+.dice {
+    text-align: center;
+}
+.face { 
+    box-sizing: border-box;
+    border: 0.50em solid black;
+    max-width: 50em;
+    margin: 2em auto;
+    border-radius: 0.5em;
+}
+    
+
